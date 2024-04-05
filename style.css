@@ -6,15 +6,18 @@
 }
 
 body {
-  background-color: #202124;
+  /* background-color: #202124; */
+  background-image: url(assets/background.jpg);
+  background-position: center;
+  background-size: contain;
   height: 100vh;
+
 }
 
 header {
   display: flex;
   justify-content: end;
   height: 60px;
-  /* background-color: teal; */
   padding: 0 18px;
 }
 
@@ -22,7 +25,6 @@ header .options {
   display: flex;
   align-items: center;
   gap: 12px;
-  /* background-color: indigo; */
 }
 
 header .options a {
