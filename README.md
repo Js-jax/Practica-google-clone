@@ -1,3 +1,5 @@
+![background](assets/google-logo.png)
+
 ### HTML
 
 - **Header Section (`<header>`)**: Esta sección contiene el encabezado de la página, que incluye el logo de Google (`<img>`), la foto de perfil (`<img>`), y cualquier otro contenido relacionado con el usuario.
